@@ -38,7 +38,7 @@ $base-color: #0b16a1;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
-$background: #fff;
+$background: #fff
 $background-alt: #f2f2f5;
 
 // Define border colors
@@ -328,7 +328,7 @@ footer {
 
     &:hover {
         color: $base-color;
-        background: #fff;
+        background: #fff
         text-decoration: none;
     }
 }
@@ -376,7 +376,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/background2.jpg);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
@@ -533,7 +533,7 @@ footer {
 
 .vtimeline-content {
     margin-left: 350px;
-    background: #fff;
+    background: #fff
     border: 1px solid #e6e6e6;
     padding: 15px;
     border-radius: 3px;
@@ -672,7 +672,7 @@ footer {
     max-width: 900px;
     margin: 0 auto 30px auto;
     overflow: hidden;
-    background: #fff;
+    background: #fff
     border-radius: 4px;
 }
 
@@ -798,7 +798,7 @@ footer {
     button {
         display: block;
         width: 100%;
-        background: #fff;
+        background: #fff
         border-radius: 4px;
         padding: 5px 10px;
         border: none;
@@ -834,7 +834,7 @@ footer {
     margin: 0 auto 30px auto;
     padding: 15px;
     border: 1px solid $border;
-    background: #fff;
+    background: #fff
     text-align: left;
 
     h3 {
